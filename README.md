@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Armish Noor 👋
 
-<!--
-**Armish143/Armish143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN Stack Developer from  Pakistan. I build full-stack web apps with React, Node.js, Express and MongoDB. Open to remote work.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express, REST APIs
+- **Database:** MongoDB
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- E-commerce Platform (in progress)
+- Quizzy (in progress)
+- Mughal Mehal Hotel Management System
+- FYP (Final Year Project)
+
+## Contact
+- Email: aarn9870@gmail.com
