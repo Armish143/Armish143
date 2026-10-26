@@ -15,4 +15,4 @@ MERN Stack Developer from  Pakistan. I build full-stack web apps with React, Nod
 - FYP (Final Year Project)
 
 ## Contact
-- Email: aarn9870@gmail.com
+- Email: aarn69870@gmail.com
